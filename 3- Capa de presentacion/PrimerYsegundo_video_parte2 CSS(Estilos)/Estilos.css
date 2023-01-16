@@ -1,0 +1,38 @@
+p{
+    color:red;
+    width: 300px;
+}
+
+/*
+UN COMENTARIO EN CSS
+*/
+
+h1{
+    border: 1px solid black;
+    font-weight: bold;
+    color:grey;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+    /* SIEMPRE ES: ARRIBA, A LA DERECHA, ABAJO Y A LA IZQUIERDA  (Para escribirlo todo junto)*/ 
+            padding: 20px 15px 15px 20px /* COMO LAS AGUJAS DEL RELOJ*/
+
+
+    /*                        
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    */
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  

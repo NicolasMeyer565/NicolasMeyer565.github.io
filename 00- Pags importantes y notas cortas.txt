@@ -1,0 +1,57 @@
+w3schools 
+ej: w3schools ekemento de bloque
+
+
+caniuse
+
+
+Buscar las cosas en google
+(Video html attributes) y ver otas pagina tambien a parte de "w3schools", como por ejemplo "developer.mozilla"
+
+
+
+"developer.mozilla" biblia para sacar cosas
+
+https://www.arsys.es/blog/codigos-ejemplo-meta-tags-sociales
+Para previsualizacion 
+
+
+css cheat sheet
+
+
+
+SIEMPRE ES: ARRIBA, A LA DERECHA, ABAJO Y A LA IZQUIERDA con el css (para escribirlo todo junto)
+--Como las agujas del reloj--
+
+
+
+
+https://es.lipsum.com/
+
+
+google fonts
+
+
+Googlear los Media queries CSS en el buscador de google
+Probablemente la primera pag en aparecer sea developer.mozila
+Pero lo importante es googlear
+
+
+UN TRABAJO FULL RESPONSIVE ES UNO MULTIPLATAFORMA(celular,tablet,compu, etc)
+1-Estos trabajos hay que cobrarlos bien porque es mucho tiempo de desarollo
+2-Y preguntar si puedo usar algun tipo de libreria full responsive (Bootstrap, Fundation, tailwindcss)      
+     ..Aplicaciones que permiten crear sitios responsivos sin tener que andar esccribiendo todos los media queries para todo..
+
+
+
+bootstrap cheat sheet
+
+
+Paginas de servidores para subir nuestras paginas web (hostinger, donweb, nic.ar), siempre en pesos.
+(nic.ar  sirve para temer tu propia pagina punto com, punto ar,etc (de argentina .ar))
+
+
+
+
+
+
