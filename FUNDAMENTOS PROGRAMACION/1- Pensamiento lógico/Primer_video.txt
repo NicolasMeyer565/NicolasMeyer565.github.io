@@ -1,0 +1,5 @@
+https://app.diagrams.net/
+
+Un algoritmo informatico es un conjunto de instrucciones definidas, ordenadas y acotadas para resolver un problema.
+LA LOGIGA ES LA MISMA EN TODOS LOS LENGUAJES despues uno va aprendiendo la forma de representarla segunlas reglas de 
+cada uno de ellos

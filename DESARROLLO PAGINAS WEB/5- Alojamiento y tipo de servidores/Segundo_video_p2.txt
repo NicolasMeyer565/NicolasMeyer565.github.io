@@ -1,0 +1,16 @@
+Git
+https://git-scm.com/docs
+
+git status
+
+git blame index.html
+
+git commit
+
+git init
+
+git confi
+
+git add
+
+git log

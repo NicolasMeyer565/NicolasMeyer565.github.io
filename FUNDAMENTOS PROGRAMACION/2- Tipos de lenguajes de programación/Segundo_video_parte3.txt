@@ -1,0 +1,6 @@
+Se denomina paradigmas de programacion a las formas de clasificar los lenguajes deprogramacion en funcion de sus 
+caracteristicas. Los idiomas se pueden clasificar en multiples paradigmas.
+Los mas comunes son:
+-Procedural
+-Orientado a objetos
+-Orientado a Eventos

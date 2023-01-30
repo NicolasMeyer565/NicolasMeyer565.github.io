@@ -1,0 +1,11 @@
+¿Qué es el pseudocódigo?
+Un pseudocódigo es la representación escrita de un algoritmo, es decir, muestra en forma de texto los pasos a seguir 
+para solucionar un problema. 
+El pseudocódigo posee una sintaxis propia para poder realizar la representación del algoritmo (solución de un problema).
+
+
+
+
+
+MACHINE LEARNING
+(w3schools)

@@ -1,0 +1,15 @@
+Diferencias entre compilacion e interpretacion
+
+1- En informática, un compilador es un programa que traduce código escrito en un lenguaje de programación (llamado fuente) 
+a otro lenguaje (conocido como objeto). 
+2- En este tipo de traductor el lenguaje fuente es generalmente un lenguaje de alto nivel y el objeto un lenguaje de bajo 
+nivel, como assembly o código máquina.
+3- Este proceso de traducción se conoce como compilación.
+
+
+
+En ciencias de la computación, intérprete o interpretador es un programa informático capaz de analizar y ejecutar otros 
+programas. Los intérpretes se diferencian de los compiladores o de los ensambladores en que mientras estos traducen un 
+programa desde su descripción en un lenguaje de programación al código de máquina del sistema, los intérpretes solo 
+realizan la traducción a medida que sea necesaria, típicamente, instrucción por instrucción, y normalmente no guardan el 
+resultado de dicha traducción.

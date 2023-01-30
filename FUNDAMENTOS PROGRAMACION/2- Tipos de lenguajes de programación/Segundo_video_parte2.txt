@@ -1,0 +1,25 @@
+Clasificación de los lenguajes de programación
+Los lenguajes de programación han sido históricamente clasificados atendiendo a distintos criterios:
+
+Clasificación histórica
+A medida que surgían nuevos lenguajes que permitían nuevos estilos de programación más expresiva, se distinguieron dichos 
+estilos en una serie de generaciones, cada una representando lenguajes de programación surgidos en una época similar y 
+con características genéricas comunes.
+
+Lenguajes de alto y de bajo nivel
+Los lenguajes de programación se suelen clasificar dentro de dos amplias categorías que se refieren a su "nivel de 
+abstracción", es decir, en cuanto a lo específico o general que es respecto a la arquitectura de computación inherente al 
+sistema que se está utilizando.
+
+Clasificación por paradigmas
+Los paradigmas de programación distinguen distintos modelos de cómputo y de estilos de estructurar y organizar las tareas 
+que debe realizar un programa. Un lenguaje de programación puede ofrecer soporte a uno o varios paradigmas de 
+programación, total o parcialmente.
+
+Clasificación por propósito
+Se distinguen los lenguajes de programación de propósito general de aquellos de propósito específico.
+
+
+En algunas ocasiones los lenguajes de programación son también clasificados en familias que comparten ciertas 
+características comunes como el estilo general de la sintaxis que emplean. Habitualmente estas características suelen 
+ser heredadas de lenguajes de programación anteriores que sirvieron de inspiración a los creadores de dicho lenguaje.

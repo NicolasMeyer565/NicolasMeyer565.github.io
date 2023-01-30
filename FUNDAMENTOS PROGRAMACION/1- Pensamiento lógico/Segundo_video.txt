@@ -1,0 +1,13 @@
+Debes pensar que los algoritmos de divide y vencerás (DYV) tienen tres partes: Divide el problema en un número de 
+subproblemas que son instancias más pequeñas del mismo problema. Vence los subproblemas al resolverlos de manera 
+recursiva. Si son los suficientemente pequeños, resuelve los subproblemas como casos base.
+
+
+El Principio No Te Repitas (Don't Repeat Yourself) es uno de los principios en el desarrollo de software cuyo principal 
+objetivo es evitar la duplicación de código. Básicamente, cuando descubres que estás escribiendo el mismo código una y 
+otra vez, todo indica que seguramente habrá una mejor manera de hacerlo.
+
+
+
+"Los desarrolladores cuando llegan a la estacia de codificar 
+es porque ya tienen en la cabeza el algoritmo que les va a resolver ese problema"
