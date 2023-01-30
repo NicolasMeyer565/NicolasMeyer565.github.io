@@ -1,0 +1,44 @@
+
+
+
+p{
+    color:rgb(133, 5, 5);
+    width: 300px;
+}
+
+
+
+h1{
+    border: 5px solid rgb(63, 1, 1);
+    font-weight: bold;
+    color:grey;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+    margin-right: 900px;
+
+    background-color: rgb(175, 65, 65);
+
+    padding: 20px 15px 15px 20px 
+}
+
+
+
+section {
+    width: 5px;
+    border: 3px solid rgb(192, 45, 45);
+    padding: 1px;
+    margin: 50px;
+    background-color: rgb(207, 137, 137);
+  }
+  
+  
+  img{
+    margin: 10px;
+    margin-top: 50px;
+    margin-left: 26px;
+    border: 5px solid rgb(63, 1, 1);
+  }
+
+ 
+ 
